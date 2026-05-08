@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jessé
 
-💻 Desenvolvedor Full Stack em transição de carreira  
+💻 Desenvolvedor Full Stack 
 🚀 Focado em Node.js, NestJS e desenvolvimento de APIs  
 🏭 Experiência com programação CNC e integração de sistemas industriais  
 
@@ -36,5 +36,5 @@ Estou em transição para a área de desenvolvimento, trazendo comigo uma forte 
 
 ## 📫 Contato
 
-- LinkedIn: (coloca aqui)
-- Email: (coloca aqui)
+- LinkedIn: https://www.linkedin.com/in/jessé-springman-91180b171/
+- Email: jessebarbosa45@gmail.com
