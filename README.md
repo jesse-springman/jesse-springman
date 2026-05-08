@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Jessé
 
-💻 Desenvolvedor Full Stack 
-🚀 Focado em Node.js, NestJS e desenvolvimento de APIs  
+💻 Desenvolvedor Backend / Full Stack  
+🚀 Focado em Node.js, NestJS, APIs REST e arquitetura backend  
 🏭 Experiência com programação CNC e integração de sistemas industriais  
 
 ---
@@ -11,26 +11,44 @@
 - Node.js
 - TypeScript
 - NestJS
-- Prisma
 - PostgreSQL
-- React
-- TailwindCSS
+- Docker
+- Next.js
+- REST APIs
+- JWT Authentication
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 Sistema de gerenciamento PetShop  
-🔹 API REST com autenticação  
-🔹 Integração com banco de dados  
+### 🔹 Sistema SaaS para Pet Shop
+- Backend em NestJS
+- PostgreSQL + Docker
+- Autenticação JWT
+- Arquitetura modular
+- Documentação com Swagger
+
+### 🔹 Plataforma com IA para estratégias de negócios
+- Integração com APIs de IA
+- Geração dinâmica de planos personalizados
+- Fluxo de pagamento integrado
+- Frontend em Next.js
+
+### 🔹 APIs REST e integração de sistemas
+- Criação de endpoints escaláveis
+- Validação de dados
+- Integração com banco de dados PostgreSQL
+- Estrutura organizada para aplicações reais
 
 ---
 
 ## 💡 Sobre mim
 
-Atuo atualmente como programador CNC no setor de PCP, trabalhando com modelagem 3D, programação de máquinas e integração com banco de dados industriais.
+Atualmente atuo no setor industrial com programação CNC, modelagem 3D e integração de sistemas, desenvolvendo forte capacidade analítica, resolução de problemas e visão de processos.
 
-Estou em transição para a área de desenvolvimento, trazendo comigo uma forte base em lógica, processos e resolução de problemas.
+Estou em transição para desenvolvimento backend/full stack, com foco em aplicações escaláveis utilizando Node.js, NestJS, PostgreSQL e Docker.
+
+Busco minha primeira oportunidade na área para contribuir com projetos reais, evoluir tecnicamente e agregar valor através da tecnologia.
 
 ---
 
