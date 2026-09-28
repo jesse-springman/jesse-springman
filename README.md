@@ -80,13 +80,16 @@ O projeto evoluiu de uma aplicação voltada para pet shops para uma estrutura m
 * Backend desenvolvido com NestJS e TypeScript.
 * Frontend desenvolvido com Next.js e React.
 * Arquitetura modular, organizada por funcionalidades e responsabilidades.
-* Banco de dados PostgreSQL com Prisma ORM.
 * Arquitetura multi-tenant para gerenciamento de múltiplos negócios.
 * Isolamento de dados por negócio utilizando `businessId`.
 * Autenticação JWT e controle de acesso por perfil.
-* APIs REST com validação de dados.
-* Documentação de APIs com Swagger.
-* Ambiente de desenvolvimento com Docker.
+* Banco de dados PostgreSQL com Prisma ORM.
+* APIs REST com validação de dados e documentação Swagger.
+* Containerização do ambiente de desenvolvimento com Docker.
+* Integração contínua (CI/CD) com GitHub Actions para automação de testes.
+* Testes automatizados para validação das funcionalidades.
+* Planejamento e implementação de tarefas agendadas (Cron) para automações e rotinas do sistema.
+
 
 #### ⚙️ Funcionalidades
 
