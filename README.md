@@ -7,7 +7,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-🌎 Estudando inglês há mais de 1 ano
+🌎 inglês técnico  
 
 🏭 Experiência com programação CNC, modelagem 3D e processos industriais
 
