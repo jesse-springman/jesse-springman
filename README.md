@@ -4,8 +4,11 @@
 
 🚀 Desenvolvendo soluções web com Node.js, NestJS e TypeScript
 💻 Criador da FlowHub, uma plataforma SaaS multi-tenant para gestão de negócios
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
 🌎 Estudando inglês há mais de 1 ano
+
 🏭 Experiência com programação CNC, modelagem 3D e processos industriais
 
 ---
